@@ -1,6 +1,6 @@
-## Hi there 👋
+## Hi there!👋
 
-# About Me! :
+# About Me :)
 - I am currently working on a Game Theory project under my professor, trying to outsmart rational players (and myself).
 - I am a Sophomore in B.Tech CSE at IIT Gandhinagar, surviving semesters one assignment at a time.
 - I am interested in AI/ML and Data Analytics, mainly because teaching machines to think feels cooler than overthinking myself.
